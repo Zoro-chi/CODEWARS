@@ -22,3 +22,11 @@
 function sortByLength (array) {
   return array.sort((a, b) => a.length - b.length);
 };
+
+
+// My Notes on kata :
+
+// I remembered the array.sort((a, b) => a - b) part from doing previous challenge with sorting arrays.
+// The a.lenght - b.length tripped me so i had to googleFu
+// Took me an hour to complete this and I will be starting from 8Kyu fundamentals from next commit, to solidify the basics.
+
