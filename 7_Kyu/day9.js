@@ -15,7 +15,7 @@
 
 // My Solution :
 
-const nthChar = (words) => words.map((word, index)=>word[index]).join('')
+const nthChar = (words) => words.map((word, index) => word[index]).join('')
 
 
 
@@ -44,5 +44,5 @@ function maxDiff(list) {
       return max - min;
     }
   
-  };
+};
 
