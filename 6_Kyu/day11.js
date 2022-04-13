@@ -1,4 +1,4 @@
-// KATA FOR THURSDAY, 12/4/22.
+// KATA FOR TEUSDAY, 12/4/22.
 
 // Description :
 
